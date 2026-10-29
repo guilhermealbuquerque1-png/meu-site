@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 9px;
+    margin: auto;
+}
+
+h1{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
