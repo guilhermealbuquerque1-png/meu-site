@@ -1,3 +1,4 @@
+* {box-sizing: border-box;}
 body{
     background-color: black;
 }
@@ -11,6 +12,11 @@ header{
 
 h1{
     color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    color: greenyellow;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
