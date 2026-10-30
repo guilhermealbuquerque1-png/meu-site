@@ -2,7 +2,7 @@
 Meu primeiro deploy
 
 # Acesse o site
-[clique aqui](https://github.io)
+[clique aqui](https://guilhermealbuquerque1-png.github.io/meu-site/)
 
 # Tecnologias utilizadas
 * HTML5
